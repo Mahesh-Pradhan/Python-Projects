@@ -1,2 +1,2 @@
 # Python-Projects
-This paked wih different projects related to opencv, 
+This packed wih different projects related to opencv, 
