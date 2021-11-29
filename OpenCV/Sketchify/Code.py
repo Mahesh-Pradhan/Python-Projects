@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 # reading/loading the image using ".imread"
 # the following command reads the file in the current folder and stores in memory as image
-image = cv2.imread("D:\\dog.jpg")
+image = cv2.imread("Enter_ur_img_path.jpg")
 
 # displaying the image using cv2.imshow
 # cv2.waitkey holds the iamge winodw
