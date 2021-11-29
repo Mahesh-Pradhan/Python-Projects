@@ -1,1 +1,1 @@
-Python project to Covert Notrmal Image to Its sketch Form using fastai
+Python project to Covert Normal Image to Its sketch Form using fastai
